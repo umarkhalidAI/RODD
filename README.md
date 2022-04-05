@@ -5,7 +5,9 @@ Recent studies have addressed the concern of detecting and rejecting the out-of-
 datasets. Our approach relies on self-supervised feature learning of the training samples, where the embeddings lie on a compact low-dimensional space. Motivated by the recent studies that show self-supervised adversarial contrastive learning helps robustifying the model, we empirically show that a pre-trained model with selfsupervised contrastive learning yields a better model for uni-dimensional feature learning in the latent space. The method proposed in this work, referred to as RODD, outperforms SOTA detection performance on extensive suite of benchmark datasets on OOD detection tasks.
 ## **Pre-Training**
 ### For CIFAR-10:
+```bash
 python pretrain.py --dataset cifar10
+```
 ### For CIFAR-100:
 python pretrain.py --dataset cifar100
 ## **Fine-Tuning**
