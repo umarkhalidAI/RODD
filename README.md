@@ -14,6 +14,15 @@ Download following OOD datasets in the 'data' folder. <br />
 [Places](http://pages.cs.wisc.edu/~huangrui/imagenet_ood_dataset/iNaturalist.tar.gz)<br />
 [Textures (Download the entire dataset)](https://www.robots.ox.ac.uk/~vgg/data/dtd/)<br />
 All other OOD Datasets such as ImagNetc, ImageNetr, LSUNr, LSUNc, iSUN and SVHN can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1MLz5C3EjQbAd1M2yktviM0qENXg4jvfz?usp=sharing)
+# Running the Code
+## Tested on:
+
+Python 3.9
+cuda 11.2
+torch 1.8.1
+torchvision 0.9.1
+numpy 1.20.1
+sklearn 0.24.1
 ## **Pre-Training**
 ### For CIFAR-10:
 ```bash
@@ -47,3 +56,4 @@ python extract_features in-dataset cifar100
 ```bash
 python evaluate_original
 ```
+
