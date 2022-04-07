@@ -56,4 +56,23 @@ python extract_features in-dataset cifar100
 ```bash
 python evaluate_original
 ```
-
+## Citation
+```bash
+@misc{https://doi.org/10.48550/arxiv.2204.02553,
+  doi = {10.48550/ARXIV.2204.02553},
+  
+  url = {https://arxiv.org/abs/2204.02553},
+  
+  author = {Khalid, Umar and Esmaeili, Ashkan and Karim, Nazmul and Rahnavard, Nazanin},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
