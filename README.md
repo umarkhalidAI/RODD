@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rodd-a-self-supervised-approach-for-robust/out-of-distribution-detection-on-cifar10)](https://paperswithcode.com/sota/out-of-distribution-detection-on-cifar10?p=rodd-a-self-supervised-approach-for-robust)
 # RODD Official Implementation of 2022 CVPRW Paper
 ## RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection
 Introduction: 
