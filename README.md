@@ -45,17 +45,17 @@ python fine_tune.py --dataset cifar100
 ## **Evaluation**
 ### For CIFAR-10:
 ```bash
-python extract_features in-dataset cifar10
+python extract_features.py in-dataset cifar10
 ```
 ```bash
-python evaluate_original
+python evaluate_original.py
 ```
 ### For CIFAR-100:
 ```bash
-python extract_features in-dataset cifar100
+python extract_features.py in-dataset cifar100
 ```
 ```bash
-python evaluate_original
+python evaluate_original.py
 ```
 ## Citation
 ```bash
