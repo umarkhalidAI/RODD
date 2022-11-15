@@ -59,14 +59,13 @@ python evaluate_original.py
 ```
 ## Citation
 ```bash
-@misc{https://doi.org/10.48550/arxiv.2204.02553,
-  doi = {10.48550/ARXIV.2204.02553},
-  url = {https://arxiv.org/abs/2204.02553},
-  author = {Khalid, Umar and Esmaeili, Ashkan and Karim, Nazmul and Rahnavard, Nazanin},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}
+@INPROCEEDINGS{9857016,
+  author={Khalid, Umar and Esmaeili, Ashkan and Karim, Nazmul and Rahnavard, Nazanin},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+  title={RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={163-170},
+  doi={10.1109/CVPRW56347.2022.00028}}
 ```
